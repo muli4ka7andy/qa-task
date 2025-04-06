@@ -11,7 +11,6 @@ The repository can be found at: [https://github.com/muli4ka7andy/qa-task](https:
 - [Running Tests](#running-tests)
 - [Test Architecture](#test-architecture)
 - [Challenges Encountered](#challenges-encountered)
-- [License](#license)
 
 ---
 
